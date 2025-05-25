@@ -36,7 +36,7 @@ export default {
         },
         {
           id: 6,
-          name: 'Codeigniter',
+          name: 'Codeigniter',  
           imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
           status: 'Intermediate'
         },
@@ -124,22 +124,14 @@ export default {
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
           <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://i1.sndcdn.com/avatars-000214125831-5q6tdw-t500x500.jpg" alt="Foto">
+            src="../../mee.jpeg" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has
-            aesthetic value
+            &nbsp; &nbsp; &nbsp;Hi everyone! My name is Ikhsan Pratama. I am a web developer from Pinrang, Sulawesi Selatan. I am a student. I am one of the students at SMKN 2 PINRAng, in my opinion, making a program is not just a job, but also an art that has aesthetic value.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
+            &nbsp; &nbsp; &nbsp; I’m a student with a strong interest in web development. My goal is to create websites that are not only functional and easy to use, but also visually appealing. I always try to add a personal touch to every project to ensure that each website effectively communicates your message and identity in a creative way. If you're interested in working with me or would like to request a website, feel free to contact me through the listed contact information.
           </p>
         </div>
 

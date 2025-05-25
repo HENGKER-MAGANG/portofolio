@@ -6,49 +6,31 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Personal Website',
+          name: 'Button PanicBully',
           imageUrl: 'portfolio_v2',
-          status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          status: 'I developed Panic Bully as a school project to help students report bullying incidents quickly and safely. This website features a panic button, real-time alerts, and an admin dashboard for managing reports. It was built to be user-friendly, responsive, and secure—combining functionality with a clean, professional design.',
+          tech: 'Php Native, Foonte, Boostrap, Mysql',
+          github: 'https://github.com/HENGKER-MAGANG/PanicBully',
+          demo: 'https://buttonpanicbully.cdcdisdiksulsel.info/'
         },
         {
           id: 2,
-          name: 'Sahabat Muslim',
+          name: 'Pemilihan Ketua',
           imageUrl: 'sahabatmuslim',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          status: 'This is a voting website I created for the election of the chairman of KPM_Sulsel. The platform allows members to vote online in a secure and transparent way. It features real-time vote counting, user authentication, and a responsive design to ensure accessibility from any device. This project was built to simplify the election process while maintaining fairness and ease of use for all members.',
+          tech: 'Php Native, Tailwind, Mysql',
+          github: 'https://github.com/HENGKER-MAGANG/web-voting',
+          demo: 'https://pemilihanketua.cdcdisdiksulsel.info/'
         },
         {
           id: 3,
-          name: 'SISTEKDES',
+          name: 'KONVERSI',
           imageUrl: 'sistekdes',
-          status: 'Sistem Informasi dan Teknologi Desa, a web application to assist village government work in administration, population data management, community services, etc.',
-          tech: 'Laravel 9, Bootstrap',
+          status: 'A simple and responsive web application that allows users to convert currencies and temperatures (Celsius, Fahrenheit, Kelvin) quickly and accurately. Designed for ease of use on all devices, this project was built to practice real-time calculation and improve user experience through a clean UI.',
+          tech: 'Python, Html, Tailwind',
           github: 'null',
-          demo: 'null'
+          demo: 'https://konversi.up.railway.app/'
         },
-        {
-          id: 4,
-          name: 'Bumdesma',
-          imageUrl: 'bumdesma',
-          status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
-          tech: 'Laravel 8, Bootstrap',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 5,
-          name: 'SP2SE',
-          imageUrl: 'sp2se',
-          status: 'Sistem Percepatan Pelayanan Surat Elektronik, A web application to manage letters in the village.',
-          tech: 'Codeigniter 3, Bootstrap',
-          github: 'null',
-          demo: 'null'
-        }
       ]
     };
   }
