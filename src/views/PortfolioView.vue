@@ -31,6 +31,15 @@ export default {
           github: 'null',
           demo: 'https://konversi.up.railway.app/'
         },
+        {
+          id: 3,
+          name: 'Kuis MTK Alam',
+          imageUrl: 'sp2se',
+          status: 'MTK Alam is an interactive and responsive mathematics learning website with three levels of difficulty. Designed to help students practice math problems in a fun and engaging way, it features a clean, nature-inspired interface accessible on all devices.',
+          tech: 'HTML, Tailwind, BOOSTRAP, JS',
+          github: 'null',
+          demo: 'https://mtkridwan.vercel.app/'
+        },
       ]
     };
   }
