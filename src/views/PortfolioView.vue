@@ -10,7 +10,6 @@ export default {
           imageUrl: 'portfolio_v2',
           status: 'I developed Panic Bully as a school project to help students report bullying incidents quickly and safely. This website features a panic button, real-time alerts, and an admin dashboard for managing reports. It was built to be user-friendly, responsive, and secure—combining functionality with a clean, professional design.',
           tech: 'Php Native, Foonte, Boostrap, Mysql',
-          github: 'https://github.com/HENGKER-MAGANG/PanicBully',
           demo: 'https://buttonpanicbully.cdcdisdiksulsel.info/'
         },
         {
