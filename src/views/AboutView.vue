@@ -35,24 +35,6 @@ export default {
           status: 'Advance'
         },
         {
-          id: 6,
-          name: 'Codeigniter',  
-          imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
-          status: 'Intermediate'
-        },
-        {
-          id: 7,
-          name: 'VueJS',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
-          status: 'Intermediate'
-        },
-        {
-          id: 8,
-          name: 'AlpineJS',
-          imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
-          status: 'Beginner'
-        },
-        {
           id: 9,
           name: 'NodeJS',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
@@ -70,12 +52,6 @@ export default {
           imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
           status: 'Intermediate'
         },
-        {
-          id: 12,
-          name: 'ReactJS',
-          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
-          status: 'Beginner'
-        }
       ],
       tools: [
         {
