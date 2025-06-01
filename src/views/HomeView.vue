@@ -25,9 +25,9 @@
         </svg>Download Resume</button> -->
     </div>
    <div class="flex justify-center md:justify-start fadein-right">
-  <img alt="avatar" fetchpriority="high" decoding="async"
-    class="w-40 h-40 md:w-64 md:h-64 rounded-full border-4 border-amber-200 pict object-cover"
-    src="../../meeeee.jpg">
+  <<img alt="avatar" fetchpriority="high" decoding="async"
+  class="w-48 h-48 md:w-72 md:h-72 rounded-full border-4 border-amber-200 pict object-cover"
+  src="../../meeeee.jpg">
 </div>
   </main>
 </template>
