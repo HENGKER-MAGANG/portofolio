@@ -104,7 +104,7 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp;Hi everyone! My name is Ikhsan Pratama. I am a web developer from Pinrang, Sulawesi Selatan. I am a student. I am one of the students at SMKN 2 PINRAng, in my opinion, making a program is not just a job, but also an art that has aesthetic value.
+            &nbsp; &nbsp; &nbsp;Hi everyone! My name is Ikhsan Pratama. I am a web developer from Pinrang, Sulawesi Selatan. I am a student. I am one of the students at SMKN 2 PINRANG, in my opinion, making a program is not just a job, but also an art that has aesthetic value.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
             &nbsp; &nbsp; &nbsp; I’m a student with a strong interest in web development. My goal is to create websites that are not only functional and easy to use, but also visually appealing. I always try to add a personal touch to every project to ensure that each website effectively communicates your message and identity in a creative way. If you're interested in working with me or would like to request a website, feel free to contact me through the listed contact information.
